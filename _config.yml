@@ -6,10 +6,10 @@ relative_permalinks: false
 
 # Setup
 title:               Eltrin
-tagline:             ''
+tagline:             'Gaming.  Simplified.'
 description:         ''
 url:                 http://eltrin.com
-baseurl:             ''
+baseurl:             'eltrin.com'
 paginate:            5
 
 # About/contact
