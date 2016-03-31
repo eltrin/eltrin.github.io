@@ -9,7 +9,7 @@ title:               Eltrin
 tagline:             'Gaming.  Simplified.'
 description:         ''
 url:                 http://eltrin.com
-baseurl:             'eltrin.com'
+baseurl:             'http://eltrin.com'
 paginate:            5
 
 # About/contact
