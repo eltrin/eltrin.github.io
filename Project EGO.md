@@ -25,14 +25,14 @@ title: Project EGO
 
 ## Features that are in active development:
 - Planets
+- Locators
+- AI combat
+- Weapons
+- Shooter systems
 
 ## Features that have not yet been added:
 - Add-ons
 - More planets
-- Locators
 - Guidance computers
-- AI combat
-- Weapons
-- Shooter systems
 
 
