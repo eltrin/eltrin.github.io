@@ -7,7 +7,7 @@ relative_permalinks: false
 # Setup
 title:               Eltrin
 tagline:             'Gaming.  Simplified.'
-description:         ''
+description:         'We're an indie gaming company trying to get a start in the world.'
 url:                 http://eltrin.com
 baseurl:             'http://eltrin.com'
 paginate:            5
