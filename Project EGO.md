@@ -22,8 +22,10 @@ title: Project EGO
 - Orbits
 - Gravity
 - Camera controls
+
 ## Features that are in active development:
 - Planets
+
 ##Features that have not yet been added:
 - Add-ons
 - More planets
