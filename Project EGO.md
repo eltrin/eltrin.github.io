@@ -26,7 +26,7 @@ title: Project EGO
 ## Features that are in active development:
 - Planets
 
-##Features that have not yet been added:
+## Features that have not yet been added:
 - Add-ons
 - More planets
 - Locators
