@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Project EGO
 ---
 ## Project EGO
 This page is still being built
