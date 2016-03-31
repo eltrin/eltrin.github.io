@@ -6,9 +6,9 @@ title: Project EGO
 <iframe width="650" height="415" src="https://www.youtube.com/embed/T_tk0dFAlUs" frameborder="0" allowfullscreen></iframe>
 
 # Downloads
-## [Windows](https://github.com/CliftonMarien/ProjectEGOBugs/releases/download/0/Prototype.0.Windows.zip)
+[Windows](https://github.com/CliftonMarien/ProjectEGOBugs/releases/download/0/Prototype.0.Windows.zip)
 
-## [Mac](https://github.com/CliftonMarien/ProjectEGOBugs/releases/download/0/Prototype.0.Mac.zip)
+[Mac](https://github.com/CliftonMarien/ProjectEGOBugs/releases/download/0/Prototype.0.Mac.zip)
 
 # Forum threads
 [Release](http://community.eltrin.com/index.php?/topic/15-project-ego-prototype-0-released/#comment-23)
