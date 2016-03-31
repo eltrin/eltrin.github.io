@@ -3,4 +3,4 @@ layout: page
 title: Project EGO
 ---
 ## Project EGO
-This page is still being built
+<iframe width="650" height="415" src="https://www.youtube.com/embed/T_tk0dFAlUs" frameborder="0" allowfullscreen></iframe>
