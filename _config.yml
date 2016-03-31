@@ -1,13 +1,13 @@
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
-#permalink:           pretty
-#relative_permalinks: false
+permalink:           pretty
+relative_permalinks: false
 
 # Setup
 title:               Eltrin
 tagline:             'Gaming.  Simplified.'
-description:         'We're an indie gaming company trying to get a start in the world.'
+description:         'We are an indie gaming company trying to get a start in the world.'
 url:                 http://eltrin.com
 baseurl:             'http://eltrin.com'
 paginate:            5
