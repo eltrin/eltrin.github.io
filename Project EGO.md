@@ -31,9 +31,9 @@ title: Project EGO
 - AI combat
 - Weapons
 - Shooter systems
+- Add-ons
 
 ## Features that have not yet been added:
-- Add-ons
 - More planets
 - Guidance computers
 
