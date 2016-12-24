@@ -163,7 +163,7 @@ img{
 }
 header { 
     background:#35527a;
-    background-image:url("img/earth.png");
+    background-image:url("../img/earth.png");
     background-size:cover;
 	height: 600px; 	
 	margin-top: 0px;
